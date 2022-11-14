@@ -1,0 +1,26 @@
+
+/* home page styling  */
+h1{
+    color: blue;
+    background-color: burlywood;
+}
+body{
+margin: 1em 1em;
+    color: gray;
+    font: normal bold 2em "Times New Roman, serif";
+}
+UL{
+    list-style-type: lower-greek;
+}
+/**{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 1;
+}*/
+p.para{
+    background-color: blueviolet;
+}
+p.specialpara{
+    text-decoration-line: underline;
+}
